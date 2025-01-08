@@ -1,1 +1,1 @@
-# Churn_Predicitions_System
+# Churn_Predicition_System
